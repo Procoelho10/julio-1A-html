@@ -2,6 +2,9 @@
 		header{
 			background: #BBBBBB;
 		}
+		nav li{
+			display: inline;
+		}
         p{
 			text-align: center;
 		}
